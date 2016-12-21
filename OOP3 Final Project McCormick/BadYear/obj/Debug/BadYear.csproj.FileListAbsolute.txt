@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYear\bin\Debug\BadYear.dll
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYear\bin\Debug\BadYear.pdb
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYear\obj\Debug\BadYear.dll
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYear\obj\Debug\BadYear.pdb
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYear\bin\Debug\BadYearIterators.dll
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYear\bin\Debug\BadYearIterators.pdb
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYear\obj\Debug\BadYear.csprojResolveAssemblyReference.cache

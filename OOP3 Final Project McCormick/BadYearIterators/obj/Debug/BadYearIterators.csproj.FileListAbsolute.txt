@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYearIterators\bin\Debug\BadYearIterators.dll
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYearIterators\bin\Debug\BadYearIterators.pdb
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYearIterators\obj\Debug\BadYearIterators.dll
+\\Mac\Home\Desktop\OOP3\Final Project\OOP3 Final Project McCormick\BadYearIterators\obj\Debug\BadYearIterators.pdb

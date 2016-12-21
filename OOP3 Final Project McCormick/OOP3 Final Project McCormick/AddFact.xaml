@@ -1,0 +1,16 @@
+﻿<Window x:Class="OOP3_Final_Project_McCormick.AddFact"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOP3_Final_Project_McCormick"
+        mc:Ignorable="d"
+        Title="Add a horrible fact." Height="300" Width="300" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox x:Name="addFactTextBox" HorizontalAlignment="Left" Height="155" Margin="27,41,0,0" TextWrapping="Wrap" Text="Did I miss a fact? Add one to the specified year." VerticalAlignment="Top" Width="241"/>
+        <Label x:Name="label" Content="Select Year:" HorizontalAlignment="Left" Margin="43,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="submitButton" Content="Submit" HorizontalAlignment="Left" Margin="179,214,0,0" VerticalAlignment="Top" Width="75" Click="submitButton_Click"/>
+        <Label x:Name="yearLabel" Content="Label" HorizontalAlignment="Left" Margin="118,10,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

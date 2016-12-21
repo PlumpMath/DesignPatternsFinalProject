@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3 Final Project McCormick", "OOP3 Final Project McCormick\OOP3 Final Project McCormick.csproj", "{9D110DAF-E1EA-4875-BE5D-5868238A7E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadYear", "BadYear\BadYear.csproj", "{FD32F058-92C7-4B1A-8BFD-BA809046EA04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadYearIterators", "BadYearIterators\BadYearIterators.csproj", "{7AE588C7-F2AC-4B92-93B6-3073D1CC664E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D110DAF-E1EA-4875-BE5D-5868238A7E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D110DAF-E1EA-4875-BE5D-5868238A7E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D110DAF-E1EA-4875-BE5D-5868238A7E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D110DAF-E1EA-4875-BE5D-5868238A7E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD32F058-92C7-4B1A-8BFD-BA809046EA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD32F058-92C7-4B1A-8BFD-BA809046EA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD32F058-92C7-4B1A-8BFD-BA809046EA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD32F058-92C7-4B1A-8BFD-BA809046EA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE588C7-F2AC-4B92-93B6-3073D1CC664E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE588C7-F2AC-4B92-93B6-3073D1CC664E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE588C7-F2AC-4B92-93B6-3073D1CC664E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE588C7-F2AC-4B92-93B6-3073D1CC664E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
